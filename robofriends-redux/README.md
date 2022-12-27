@@ -1,4 +1,4 @@
-# robofriends-hooks
+# robofriends-redux
 
 To run the project:
 
