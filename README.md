@@ -4,7 +4,7 @@ Robofriends is a simple React app that allows you to search for robots by name. 
 This is a Class version of the app.
 
 ## Live Demo
-[Robofriends](https://efxlve.github.io/robofriends/)
+= [Robofriends](https://efxlve.github.io/robofriends/)
 
 ## Features
 - Search for robots by name
