@@ -1,4 +1,4 @@
-## Robofriends
+# Robofriends
 Robofriends is a simple React app that allows you to search for robots by name. It uses the [Robohash API](https://robohash.org/) to generate robot images and the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) to generate fake user data.
 
 This is a Class version of the app.
